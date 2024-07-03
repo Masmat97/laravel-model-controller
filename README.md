@@ -36,9 +36,10 @@ Questo git-template fornisce lo scaffold di una web application realizzata con L
 - Lanciare il progetto tramite il server built-in di PHP
 	```bash
 	php artisan serve
-	```
 - Lanciare vite
+	```
 	```bash
 	npm run dev
 	```
 - Puntare il browser all'indirizzo mostrato in terminale per controllare che tutto funzioni.
+
